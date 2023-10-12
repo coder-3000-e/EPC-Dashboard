@@ -1,0 +1,7 @@
+.vs
+server\rmt\.vs
+server\rmt\bin\Debug
+server\rmt\obj\Debug
+server\rmt\obj\Release
+server\rmt\rmt\obj
+server\rmt\rmt\bin

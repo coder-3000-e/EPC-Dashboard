@@ -1,0 +1,10 @@
+.dash {
+       margin: 1px;
+       margin-top: 25px;
+       border-radius: 20px;
+       flex-basis: 300px;
+       mix-blend-mode: normal;
+       outline: rgb(42, 58, 86) solid 1px;
+       padding: 30px 30px 5px;
+       background-color: rgb(3 115 115);
+}
