@@ -45,7 +45,7 @@ Follow these steps to set up and run the EPC Dashboard:
    - Use one of the following methods to obtain the project:
      - Clone the repository with Git:
        ```bash
-       git clone https://github.com/coder-3000-e/RMT.git
+       git clone https://github.com/coder-3000-e/EPC-Dashboard.git
        ```
      - Alternatively, you can download the repository as a ZIP file by clicking the "Download" button on the GitHub repository's main page. Once downloaded, extract the ZIP archive to a location of your choice on your local machine.
 
